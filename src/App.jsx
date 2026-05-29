@@ -4,24 +4,24 @@ import { Target, Save, Trash2, ArrowLeft, Zap, Download, Upload, ShieldCheck, Yo
 
 // SYLLABUS DATA (2023-2025 Standardized E-Maths 4052)
 const SYLLABUS_DATA = [
-  { name: "Algebra", goal: 12.0 }, 
-  { name: "Eqn/Inequalities", goal: 13.0 },
-  { name: "Pythagoras/Trigo", goal: 10.5 }, 
-  { name: "Mensuration", goal: 9.0 },
-  { name: "Data Handling", goal: 7.5 }, 
-  { name: "Number Operations", goal: 6.0 },
-  { name: "Percentage", goal: 5.5 }, 
-  { name: "Functions/Graph", goal: 5.5 },
-  { name: "Probability", goal: 5.0 }, 
-  { name: "Ratio/Proportion", goal: 4.5 },
-  { name: "Vectors", goal: 4.0 }, 
-  { name: "Coord Geometry", goal: 3.5 },
-  { name: "Angles/Polygons", goal: 3.5 }, 
-  { name: "Matrices", goal: 2.5 },
-  { name: "Congruence/Similarity", goal: 2.5 }, 
-  { name: "Properties Circles", goal: 2.5 },
-  { name: "Rate/Speed", goal: 2.0 }, 
-  { name: "Sets", goal: 1.0 }
+  { name: "Algebra", goal: 11.7 }, 
+  { name: "Eqn/Inequalities", goal: 12.2 },
+  { name: "Pythagoras/Trigo", goal: 9.8 }, 
+  { name: "Mensuration", goal: 10.0 },
+  { name: "Data Handling", goal: 7.0 }, 
+  { name: "Number Operations", goal: 6.5 },
+  { name: "Percentage", goal: 5.2 }, 
+  { name: "Functions/Graph", goal: 5.7 },
+  { name: "Probability", goal: 4.4 }, 
+  { name: "Ratio/Proportion", goal: 5.2 },
+  { name: "Vectors", goal: 3.5 }, 
+  { name: "Coord Geometry", goal: 4.4 },
+  { name: "Angles/Polygons", goal: 3.1 }, 
+  { name: "Matrices", goal: 2.4 },
+  { name: "Congruence/Similarity", goal: 2.2 }, 
+  { name: "Properties Circles", goal: 2.6 },
+  { name: "Rate/Speed", goal: 2.4 }, 
+  { name: "Sets", goal: 1.5 }
 ];
 
 export default function ExamMasterySystem() {
